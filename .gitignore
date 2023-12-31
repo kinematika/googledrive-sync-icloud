@@ -1,3 +1,4 @@
 *.log
 .path
 .vscode
+*.plist
